@@ -1,10 +1,10 @@
 # 🌟 Stellar Developer
 
-Hey there! I'm Thanush Krishna, a stellar developer passionate about crafting clean code and building impactful software solutions.
+Hey there! I'm Thanush Krishna, a Full Stack developer passionate about crafting clean code and building impactful software solutions.
 
 ## 🚀 Expertise
 
-- **Languages:** JavaScript, python, Java
+- **Languages:** JavaScript, Python, Java
 - **Frameworks/Libraries:** React, Node.js, Express, NextJs
 - **Tools:** Git, Docker, VS Code
 - **Databases:** MongoDB, MySQL, PostgreSQL, OracleDB
