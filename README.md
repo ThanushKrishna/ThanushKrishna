@@ -9,10 +9,10 @@ Hey there! I'm Thanush Krishna, a stellar developer passionate about crafting cl
 - **Tools:** Git, Docker, VS Code
 - **Databases:** MongoDB, MySQL, PostgreSQL, OracleDB
 
-## 💼 Experience
+## 💼 Experience/Projects
 
-- [Previous Job/Project]: Description of your role and accomplishments
-- [Previous Job/Project]: Description of your role and accomplishments
+- <a href=https://github.com/ThanushKrishna/smart> SMART-APP </a>: A Smart app for Motor Insurance Data management.
+- <a href=https://github.com/ThanushKrishna/smart> ISSUE-TRACKER </a>: A simple tool for Issue Tracking.
 
 ## 🌱 Currently Learning
 
