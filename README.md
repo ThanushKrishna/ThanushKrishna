@@ -12,7 +12,7 @@ Hey there! I'm Thanush Krishna, a stellar developer passionate about crafting cl
 ## 💼 Experience/Projects
 
 - <a href=https://github.com/ThanushKrishna/smart> SMART-APP </a>: A Smart app for Motor Insurance Data management.
-- <a href=https://github.com/ThanushKrishna/smart> ISSUE-TRACKER </a>: A simple tool for Issue Tracking.
+- <a href=https://github.com/ThanushKrishna/issue-tracker> ISSUE-TRACKER </a>: A simple tool for Issue Tracking.
 
 ## 🌱 Currently Learning
 
