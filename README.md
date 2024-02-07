@@ -1,6 +1,6 @@
-# 🌟 Stellar Developer
+# 🌟 FullStack Developer
 
-Hey there! I'm Thanush Krishna, a Full Stack developer passionate about crafting clean code and building impactful software solutions.
+Hey there! I'm Thanush Krishna, a full-stack developer passionate about crafting clean code and building impactful software solutions.
 
 ## 🚀 Expertise
 
