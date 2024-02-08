@@ -17,7 +17,7 @@ Hey there! I'm Thanush Krishna, a full-stack developer passionate about crafting
 
 ## 🌱 Currently Activities
 
-- Developing a new Next.Js application **Issue-Tracker** for one of my Clients
+- Developing a new Next.Js application **Issue-Tracker**
 
 ## 📫 Let's Connect
 
