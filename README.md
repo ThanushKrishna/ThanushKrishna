@@ -13,11 +13,11 @@ Hey there! I'm Thanush Krishna, a full-stack developer passionate about crafting
 
 - <a href=https://github.com/ThanushKrishna/smart> SMART-APP </a>: A Smart app for Motor Insurance Data management.
 - <a href=https://github.com/ThanushKrishna/issue-tracker> ISSUE-TRACKER </a>: A simple tool for Issue Tracking.
+- <a href=https://github.com/ThanushKrishna/trvl> TRVL </a>: A Travelling Blog Landing Page.
 
-## 🌱 Currently Learning
+## 🌱 Currently Activities
 
-- Exploring machine learning algorithms
-- Improving my design skills with Figma
+- Developing a new Next.Js application **Issue-Tracker** for one of my Clients
 
 ## 📫 Let's Connect
 
