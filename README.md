@@ -27,8 +27,9 @@ Hey there! I'm Thanush Krishna, a full-stack developer passionate about crafting
 
 ## 🎯 Goals
 
-- Contribute to open-source projects
-- Launch a personal project in the next 6 months
+- Participate in open-source initiatives
+- Collaborate with others to enrich the significance of impactful projects while gaining knowledge throughout the process.
+- Open to mastering any technology and contributing to worthwhile endeavors.
 
 ## ✨ Passion Projects
 
